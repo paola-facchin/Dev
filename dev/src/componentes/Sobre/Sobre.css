@@ -1,0 +1,35 @@
+.fundo{
+    background-color: white;
+}
+
+.titulo {
+    font-size: 2.5em;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 20px;
+    font-family: cursive;
+    color: black;
+    margin: 0px 0px 22px 0px;
+}
+
+.conf{
+    display: flow-root;
+    width: 880px;
+    margin: 5px auto 30px auto;
+}
+
+.prog{
+    float: left;
+    margin: 0 20px 20px 0;
+    width: 40%;
+    box-shadow: -11px 9px 10px #000000;
+}
+
+.texto{
+    margin: 0px 0px 0.5em 0px;
+    font-size: 19px;
+    text-align: inherit;
+    font-family: serif;
+    color: black;
+    
+}
